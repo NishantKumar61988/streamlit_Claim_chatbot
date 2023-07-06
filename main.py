@@ -22,7 +22,7 @@ import streamlit as st
 # # Access the buffer_memory attribute
 #buffer_memory = st.session_state.buffer_memory
 
-image = Image.open('./image/company.png')
+image = Image.open('image/company.png')
 st.image(image, caption='Company Data')
 st.subheader("Claim Liability Chatbot")
 
