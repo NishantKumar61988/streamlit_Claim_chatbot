@@ -1,6 +1,6 @@
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationChain
-from config import OPENAI_API_KEY
+from configs import OPENAI_API_KEY
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 from langchain.prompts import (
     SystemMessagePromptTemplate,
