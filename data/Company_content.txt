@@ -1,0 +1,267 @@
+Company training content 
+
+Auto Insurance Liability Adjuster Training: Determining Claim Liability and Split Liability Assessments 
+Introduction: 
+As an auto insurance liability adjuster, your role is crucial in assessing claim liability accurately. Determining liability involves evaluating various factors and evidence to establish fault. This training guide will provide you with guidance on what you need to know when determining claim liability, including insights on handling split liability situations. 
+
+Understand Policy Coverage: 
+Before assessing liability, thoroughly review the insurance policies involved in the claim. Familiarize yourself with the coverage limits, exclusions, deductibles, and any specific provisions relevant to the circumstances of the claim. Understanding policy details will help you evaluate liability within the applicable coverage framework. 
+
+Gather Information: 
+Collect as much information as possible regarding the accident. This includes accident reports, photographs, witness statements, police records, and any other relevant documentation. The more comprehensive the information, the better you can assess liability. 
+
+Analyze Accident Scene: 
+Carefully examine the accident scene and analyze physical evidence. Consider factors such as vehicle positioning, skid marks, damage patterns, and traffic control devices. This analysis can provide insights into the sequence of events and the actions of each party involved. 
+
+Interview Witnesses: 
+
+Interview witnesses who observed the accident. Seek their statements regarding what they saw and heard. Assess the credibility, consistency, and biases of witnesses to establish a clear understanding of the events leading up to the accident. 
+
+Review Traffic Laws and Regulations: 
+
+Be well-versed in the traffic laws and regulations of the jurisdiction where the accident occurred. Determine if any party involved violated traffic laws, such as speeding, failure to yield, or running a red light. Violations can significantly impact liability assessments. 
+
+Consider Comparative Negligence: 
+
+In cases of split liability, apply the principles of comparative negligence. Evaluate the actions and behaviors of all parties involved in the accident and determine the degree of fault for each. Assign a percentage of fault based on the level of contribution to the accident. 
+
+Evaluate Contributing Factors: 
+
+Identify any contributing factors that may have influenced the accident, such as road conditions, weather, or mechanical issues. Determine their relevance to the liability assessment and allocate fault accordingly. 
+
+Consult Experts: 
+
+If necessary, consult accident reconstruction specialists or other experts to obtain a more detailed analysis. Their expertise can provide insights into vehicle dynamics, speeds, and the likelihood of certain scenarios, aiding in determining liability. 
+
+Document Assessment Rationale: 
+
+Maintain thorough documentation of your liability assessment, including the rationale behind your decisions. Clearly outline the factors considered, evidence reviewed, and the comparative fault analysis. This documentation will support your decisions and provide a reference for any further discussions or disputes. 
+
+Communication and Fairness: 
+
+Effectively communicate your liability decisions to the involved parties. Clearly explain the reasons for your determination and address any questions or concerns they may have. Ensure fairness and consistency in your assessments to maintain credibility and minimize disputes. 
+
+Continuous Learning: 
+
+Stay updated on relevant laws, regulations, and industry best practices. Attend training sessions, seminars, and workshops to enhance your knowledge and skills in determining liability. Seek feedback from supervisors and colleagues to refine your expertise over time. 
+
+Conclusion: 
+
+As an auto insurance liability adjuster, your role in determining claim liability is critical to the fair resolution of insurance claims. By following these guidelines, carefully evaluating evidence, considering comparative negligence principles, and maintaining clear communication, you can make accurate and fair liability assessments, even in split liability situations. Remember, ongoing learning and professional development are key to mastering the art of determining claim liability effectively. 
+
+ 
+
+Ingest state regulation reference content 
+
+In Georgia, the comparative negligence law follows the modified comparative negligence rule. Here are the key points to understand about comparative negligence in Georgia: Modified Comparative Negligence: Georgia follows a modified comparative negligence system. Under this system, an injured party can still recover damages even if they are partially at fault for the accident. However, their recovery is reduced by their percentage of fault. 50% Bar Rule: Georgia applies the 50% bar rule, also known as the 50% rule of comparative negligence. According to this rule, an injured party can only recover damages if their fault is determined to be 49% or less. If the injured party is found to be 50% or more at fault, they are barred from recovering any damages. Reduction in Damages: If the injured party is found partially at fault, their recoverable damages are reduced proportionately to their assigned percentage of fault. For example, if the injured party is determined to be 20% at fault and the total damages are $100,000, their recoverable damages would be reduced by 20% to $80,000. Joint and Several Liability: In Georgia, joint and several liability applies when a defendant is determined to be 50% or more at fault. In such cases, the defendant is responsible for the full amount of damages awarded, regardless of the plaintiff's percentage of fault. Pure Comparative Negligence for Non-Economic Damages: Georgia also applies pure comparative negligence when determining non-economic damages, such as pain and suffering. Under this rule, an injured party can recover damages even if they are 50% or more at fault, but their award is reduced by their percentage of fault. 
+
+ 
+
+Claim details reported by policyholder, Mr. John Smith:  
+
+Claim Number: XYZ123456 
+
+Accident Date: June 15, 2023 
+
+Customer Name: John Smith 
+
+Policy Number: ABC78901234 
+
+The accident occurred on June 15, 2023.  
+
+I was traveling westbound on Main Street, approaching the intersection with Oak Avenue. As I reached the intersection, the traffic signal for my direction of travel turned yellow. I believed I had sufficient time to proceed through the intersection before the signal turned red so I sped up. 
+
+At the same time, another vehicle, driven by Ms. Emily Johnson, was heading southbound on Oak Avenue. She ran the red light and entered the intersection. 
+
+To avoid a collision, I swerved to the left, but our vehicles collided. The impact resulted in damage to the front right corner of my vehicle and the rear left side of Ms. Johnson's vehicle. 
+
+I have attached photographs of the accident scene, which clearly depict the position of our vehicles, the traffic signal, and the damage sustained. 
+
+ 
+
+Police report:   
+
+Police Report Number: 2023-456789 
+
+Date: June 15, 2023 
+
+Incident Information: 
+
+Location: Intersection of Main Street and Oak Avenue 
+
+Time: 3:15 PM 
+
+Involved Parties: 
+
+Party 1: 
+
+Name: John Smith 
+
+Date of Birth: January 10, 1985 
+
+Address: 123 Main Street, Fayetteville, GA 
+
+Driver's License Number: 1234567890 
+
+Vehicle Information: 
+
+Make: Toyota 
+
+Model: Camry 
+
+Year: 2012 
+
+License Plate: ABC123 
+
+Party 2: 
+
+Name: Emily Johnson 
+
+Date of Birth: July 5, 1990 
+
+Address: 456 Oak Avenue, Fayetteville, GA 
+
+Driver's License Number: 0987654321 
+
+Vehicle Information: 
+
+Make: Honda
+Model: Civic
+Year: 2018 
+License Plate: XYZ987 
+Witnesses: 
+Witness 1: 
+
+Name: Robert Davis 
+
+Contact Information: 555-123-4567 
+
+Witness 2: 
+Name: Sarah Thompson 
+Contact Information: 555-987-6543 
+Description of the Incident: 
+
+On June 15, 2023, at approximately 3:15 PM, I, Officer James Anderson, was dispatched to the intersection of Main Street and Oak Avenue in response to a reported accident. Upon arrival at the scene, I observed two vehicles, identified as a Toyota Camry driven by John Smith and a Honda Civic driven by Emily Johnson, involved in a collision. 
+
+According to the involved parties and the gathered witness statements, the following sequence of events occurred: 
+
+Mr. John Smith stated that he was traveling westbound on Main Street, approaching the intersection with Oak Avenue. As he reached the intersection, the traffic signal for his direction of travel turned yellow. Believing he had sufficient time to proceed through the intersection before the signal turned red, Mr. Smith accelerated his vehicle. 
+
+At the same time, Ms. Emily Johnson was heading southbound on Oak Avenue. According to witnesses and Mr. Smith's statement, Ms. Johnson ran the red light and entered the intersection. 
+
+To avoid a collision, Mr. Smith swerved to the left, but the vehicles collided. The impact resulted in damage to the front right corner of Mr. Smith's vehicle and the rear left side of Ms. Johnson's vehicle. 
+
+Weather conditions at the time of the accident were clear, and both roads were dry. 
+
+Witnesses, Mr. Robert Davis and Ms. Sarah Thompson, confirmed that Ms. Johnson's vehicle entered the intersection against a red signal. They also acknowledged Mr. Smith's attempt to accelerate through the intersection before the light turned red. 
+
+Based on the gathered information and the physical evidence at the scene, it is apparent that Ms. Johnson violated the traffic signal by running a red light, while Mr. Smith was attempting to proceed through a yellow light. 
+
+Traffic Citations: 
+
+Ms. Emily Johnson is hereby cited for violation of Georgia Code Section 40-6-20 for running a red light. Mr. John Smith is hereby cited for violation of Georgia Code Section 40-6-25 for accelerating through a yellow light. 
+
+Conclusion: 
+
+Based on the gathered information, witness statements, and the assessment of the accident scene, it is determined that Emily Johnson bears primary fault for running a red light and entering the intersection. However, John Smith also shares partial fault for proceeding through a yellow light at an accelerated speed. 
+
+Please note that this report is subject to review and may be amended if new information becomes available. 
+Officer's Name: Officer James Anderson 
+Badge Number: 1234 
+Date: June 15, 2023 
+ 
+
+Claimant statement by Ms. Emily Johnson:  
+
+On the day of the accident, I was driving southbound on Oak Avenue, approaching the intersection with Main Street. As I approached the intersection, the traffic signal turned green and I proceeded through the intersection. Suddenly, a vehicle driven by Mr. John Smith traveling westbound on Main Street recklessly accelerated and ran a red light, colliding with my vehicle on the driver's side. The impact caused significant damage to my vehicle's rear left side. I firmly believe that Mr. Smith's reckless and negligent driving caused the accident and is solely responsible for the damages sustained. Upon police arrival, Officer James Anderson prepared an accident report, which falsely attributes some of the fault to me. I believe Officer Anderson did not conduct a thorough investigation and disregarded crucial information that would prove Mr. Smith's liability. I request a prompt and fair assessment of my claim, taking into account the true sequence of events and holding Mr. Smith accountable for his reckless actions. 
+
+ 
+
+Telematics data: 
+
+Telematics Data for Mr. John Smith's Car: 
+
+Date: June 15, 2023 
+
+Location and speed: 
+
+3:15:30 PM, Main Street, 100 ft away from the intersection with Oak Avenue, speed 30 mph 
+
+3:15:31 PM, Main Street, 50 ft away from the intersection with Oak Avenue, speed 40 mph 
+
+3:15:32 PM, Main Street, approaching the intersection with Oak Avenue, speed 45 mph 
+
+3:15:33 PM, Main Street, entering the intersection with Oak Avenue, speed 45 mph 
+
+3:15:34 PM, Main Street, halfway through the intersection with Oak Avenue, speed 45 mph 
+
+3:15:35 PM, Main Street, stopped in the intersection with Oak Avenue, speed 0 mph 
+
+Acceleration/Braking: 
+
+3:15:31 PM: Hard acceleration 
+
+3:15:35 PM: Hard braking 
+
+ 
+
+Vehicle damage appraisal: 
+
+Vehicle Damage Appraisal 
+
+Claim Number: XYZ123456 
+
+Accident Date: June 15, 2023 
+
+Appraisal Date: June 20, 2023 
+
+Insured: Mr. John Smith Policy Number: ABC78901234 
+
+Vehicle Information: Make: Toyota Model: Camry Year: 2012 License Plate: ABC123 
+
+Damage Description: 
+
+Front Right Side: 
+
+Front fender: Dent and scratches 
+
+Front passenger door: Scratches and minor deformation 
+
+Front bumper: Cracks and scratches 
+
+Front taillight: Broken 
+
+Front Suspension: 
+
+Right front wheel: Misalignment 
+
+Miscellaneous: 
+
+Paint damage on the right side of the vehicle due to collision impact 
+
+Estimated Repair Costs: 
+
+Front Right Side: 
+
+Front fender repair and paint: $500 
+
+Front passenger door repair and paint: $600 
+
+Front bumper replacement and paint: $800 
+
+Front taillight replacement: $150 
+
+Front Suspension: 
+Realignment of the right Front wheel: $150 
+Miscellaneous: 
+Paint touch-up and blending: $200 
+Total Estimated Repair Cost: $2,500 
+
+Note: This appraisal provides an estimated repair cost based on the visible damage observed on the vehicle. The actual repair costs may vary depending on the repair shop and any underlying damage that may be discovered during the repair process. The appraisal is subject to review and may be adjusted as necessary. 
+
+Please feel free to contact us if you have any further questions or require additional information. 
+
+Sincerely, 
+Caleb Jones 
+
+Vehicle Damage Appraiser 
