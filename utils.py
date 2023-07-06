@@ -6,7 +6,7 @@ import streamlit as st
 openai.api_key = ""
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-pinecone.init(api_key=PINECONE_API_KEY, environment= PINECONE_ENV)
+pinecone.init(api_key='e3c380f6-021f-449b-a0e1-d08c2df25635', environment= 'us-west4-gcp-free')
 index = pinecone.Index('langchain-chatbot')
 
 def find_match(input):
@@ -18,7 +18,7 @@ def query_refiner(conversation, query):
 
     response = openai.Completion.create(
     model= "text-davinci-003",
-    api_key= OPENAI_API_KEY,
+    api_key= st.secrets["OPENAI_API_KEY"],
     prompt=f"Given the following user query and conversation log, formulate a question that would be the most relevant to provide the user with an answer from a knowledge base.\n\nCONVERSATION LOG: \n{conversation}\n\nQuery: {query}\n\nRefined Query:",
     temperature=0.7,
     max_tokens=256,
