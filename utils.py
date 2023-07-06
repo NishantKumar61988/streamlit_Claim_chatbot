@@ -1,7 +1,6 @@
 from sentence_transformers import SentenceTransformer
 import pinecone
 import openai
-from configs import OPENAI_API_KEY, PINECONE_API_KEY, PINECONE_ENV
 import streamlit as st
 openai.api_key = ""
 model = SentenceTransformer('all-MiniLM-L6-v2')
